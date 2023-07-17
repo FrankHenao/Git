@@ -1,4 +1,5 @@
 body{
+    background: url(../img/low-poly-grid-haikei.svg);
     margin: 0;
     padding: 0;
     text-align: center;
@@ -11,6 +12,7 @@ body{
     margin-top: 40px;
     width: 70%;
     padding: 1em;
+    background-color: azure;
     text-align: left;
     border: 1px solid #DDD;
     margin: auto;
