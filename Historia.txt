@@ -1,3 +1,5 @@
 Simulación de proyecto para git bash
 
 Hacemos unos cambios para ver lo que hicimos
+
+Inicios en grupo Inter
