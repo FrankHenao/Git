@@ -1,3 +1,0 @@
-Simulación de proyecto para git bash
-
-Acabamos de hacer unos cambios de prueba
